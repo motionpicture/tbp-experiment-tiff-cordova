@@ -1,0 +1,18 @@
+{
+	"android": {
+		"debug": {
+			"keystore": "keystores/fj_sample.jks",
+			"storePassword": "fjsample",
+			"alias": "fj_sample",
+			"password": "fjsample",
+			"keystoreType": ""
+		},
+		"release": {
+			"keystore": "keystores/fj_sample.jks",
+			"storePassword": "fjsample",
+			"alias": "fj_sample",
+			"password": "fjsample",
+			"keystoreType": ""
+		}
+	}
+}
